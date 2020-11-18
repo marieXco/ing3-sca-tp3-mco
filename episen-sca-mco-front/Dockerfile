@@ -16,3 +16,6 @@ FROM nginx:alpine
 COPY --from=builder /app-ui/dist/episen-sca-mco-front/ /usr/share/nginx/html
 
 EXPOSE 80
+
+LABEL version="3"
+LABEL release-date="2020-11-18"

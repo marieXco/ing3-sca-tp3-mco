@@ -1,6 +1,5 @@
-package com.example.episenscamcofront.endpoints;
+package com.example.episenscamcoback.endpoints;
 
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.io.FileNotFoundException;

@@ -1,13 +1,13 @@
-package com.example.episenscamcofront;
+package com.example.episenscamcoback;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EpisenScaMcoFrontApplication {
+public class EpisenScaMcoBackApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EpisenScaMcoFrontApplication.class, args);
+        SpringApplication.run(EpisenScaMcoBackApplication.class, args);
     }
 
 }

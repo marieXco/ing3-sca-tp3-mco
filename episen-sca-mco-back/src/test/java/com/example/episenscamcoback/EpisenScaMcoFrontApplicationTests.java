@@ -1,4 +1,4 @@
-package com.example.episenscamcofront;
+package com.example.episenscamcoback;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
