@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="205a8732-8ab0-491b-b667-b3ae3c05fbeb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../episen-sca-mco-front/episen-sca-mco-front/src/app/service/OrderService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../episen-sca-mco-front/episen-sca-mco-front/src/app/service/OrderService.ts" afterDir="false" />
-    </list>
+    <list default="true" id="205a8732-8ab0-491b-b667-b3ae3c05fbeb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +16,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iul7QgXT2e9ycpltnPN5mi96Qg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,14 +27,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../episen-sca-mco-front" />
     <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/../episen-sca-mco-front/episen-sca-mco-front/node_modules/protractor" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\mb601\IdeaProjects\episen-sca-mco-front\episen-sca-mco-front\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -98,9 +96,7 @@
       <updated>1602765189774</updated>
       <workItem from="1602765194570" duration="31000" />
       <workItem from="1602765409434" duration="8027000" />
-      <workItem from="1602914434330" duration="25632000" />
-      <workItem from="1605689181677" duration="441000" />
-      <workItem from="1605689645131" duration="971000" />
+      <workItem from="1602914434330" duration="17905000" />
     </task>
     <servers />
   </component>
@@ -112,9 +108,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
