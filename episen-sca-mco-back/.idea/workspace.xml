@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2470e7f-62e0-41e8-9733-84aa8fb5705d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/orders/.ash_history" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/backend.log" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/orders/orders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../episen-sca-mco-front/frontend/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/../episen-sca-mco-front/frontend/access.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +31,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../episen-sca-mco-front" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -70,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605696833977</updated>
-      <workItem from="1605696837753" duration="19385000" />
+      <workItem from="1605696837753" duration="20064000" />
+      <workItem from="1605809580370" duration="284000" />
     </task>
     <servers />
   </component>
@@ -82,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -3,7 +3,7 @@ version: "3.4"
 services:
     # front
     episen-sca-mco-front :
-        build : ./episen-sca-mco-front/ .
+        image : 210198/episen-sca-mco-front
         container_name : happy_knuth
         restart: always
         volumes: 
@@ -27,7 +27,7 @@ services:
                         
     # back
     episen-sca-mco-back :
-        build: ./episen-sca-mco-back/ .
+        image: 210198/episen-sca-mco-back
         container_name: sad_mestorf
         restart: always
         volumes: 
